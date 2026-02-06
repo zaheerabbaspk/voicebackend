@@ -1,0 +1,19 @@
+# Exclude node_modules and other frontend assets
+node_modules/
+src/
+android/
+www/
+angular.json
+capacitor.config.ts
+ionic.config.json
+karma.conf.js
+package-lock.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+.editorconfig
+.eslintrc.json
+.browserslistrc
+.vscode/
+test.mp3
+service_test.mp3
